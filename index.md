@@ -10,7 +10,7 @@ navigate my tools more efficiently.
 
 ## About me
 
-By day I'm a master craftsman in hearing acoustics (Hörakustikmeister)
+By day I'm a master craftsman in hearing acoustics
 from Germany. By night I'm teaching myself to code.
 
 ## What to expect
